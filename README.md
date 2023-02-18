@@ -6,4 +6,4 @@ A collection of machine learning notebooks.
 - [Latent Diffusion Image Generation](https://github.com/hayden-donnelly/ml-notebooks/blob/main/latent_diffusion.ipynb)
 
 ## Natural Language
-- []()
+- [Transformer Text Generation](https://github.com/hayden-donnelly/ml-notebooks/blob/main/transformer.ipynb)
